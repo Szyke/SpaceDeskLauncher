@@ -12,6 +12,8 @@ tamamen Java ile yazılmış, Material Design 3 tabanlı bir Android Launcher (H
    bölümünden SpaceDesk Launcher'ı varsayılan launcher olarak seçmelidir
    (uygulama içindeki Ayarlar ekranındaki **"Varsayılan Launcher Yap"** butonu da doğrudan bu ekrana yönlendirir).
 
+   https://mega.nz/file/62hHhBwA#99NcyTUdOha4dzSfdSJ6igQRJUh7_c4F7YKt2xBFcmc
+
 ## Proje Yapısı
 
 ```
