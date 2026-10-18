@@ -1,0 +1,23 @@
+// SpaceDesk Launcher - Root build.gradle
+// Proje genelindeki repository ve plugin sürümlerini tanımlar.
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.13.2'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
